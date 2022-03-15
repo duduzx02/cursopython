@@ -7,3 +7,5 @@ print('Eduardo', 'Lima', end='&')  # Tudo que estiver dentro dos parênteses sã
 print('Eduardo', 'Lima', sep='+')  # A função sep='' é utilizado para colocar algo entre os argumentos separados por ,
 
 # o Python diferencia as letras MAIÚSCULA e minuscula
+
+'''   sep e end são argumentos da função print que representam respectivamente "separador" e "fim".  '''
